@@ -1,6 +1,6 @@
 ##  DANet: Dual-attention Network for View-invariant Action  recognition.  
 
-#we propose a Dual-Attention Network (DANet) aims to learn robust video representation for view-invariant action recognition. 
+We propose a Dual-Attention Network (DANet) aims to learn robust video representation for view-invariant action recognition. 
 The DANet is composed of relation-aware spatiotemporal self-attention and spatiotemporal cross-attention modules.
 The relation-aware spatiotemporal self-attention module learns representative and discriminative action features. This module
 captures local and global long-range dependencies, as well as pairwise relations among human body parts and joints in the
@@ -10,7 +10,7 @@ features for semantic representations of actions in different views.
 ## Main function and  modules source  code
 The main function and  modules source  code will be released for future work and to facilitate communication
 
-$$ Datasets
+## Datasets
 
 There are 3 datasets to download:
 
