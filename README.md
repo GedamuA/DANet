@@ -7,6 +7,8 @@ captures local and global long-range dependencies, as well as pairwise relations
 spatial and temporal domains. The cross-attention module learns view-invariant attention maps and generates discriminative
 features for semantic representations of actions in different views.
 
+## Main function and  modules source  code
+The main function and  modules source  code will be released for future work and to facilitate communication
 
 $$ Datasets
 
